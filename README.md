@@ -2,10 +2,9 @@
 
 **`Desenvolvedor Backend`**
 
-Sou desenvolvedor Python a 7 meses, atualmente presto 
-meus serviços como freelancer no desenvolvimento de
-diferentes projetos e níveis de dificuldade. Domino 
-tecnologias como Python, MySQL, Flet(Flutter) e outras.
+Analista de sistemas, especialidade em Java e Python.
+Atualmente trabalho com desenvolvimento de aplicativos android
+utilizando kotlin.
 
 ---
 
